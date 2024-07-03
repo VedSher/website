@@ -1,7 +1,7 @@
+
 *{
     /* margin-left: 2px; */
     padding: 0;
-    width: auto;
     
     /* background-color: beige; */
     box-sizing: border-box;
@@ -13,13 +13,9 @@
 --text-color: #fff;
 --main-color: rgb(21, 78, 176);;
 }
-#main{
-    height: screen;
-    width: screen;
-}
 html, body {
     height: 100vh;
-    width: 100%;
+    width: 100vh;
     background-color: beige;
     
     /* margin-left: 2rem; */
